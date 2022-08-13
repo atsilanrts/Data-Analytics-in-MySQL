@@ -1,4 +1,4 @@
-## QUIZ 6
+
 
 # 1
 select
