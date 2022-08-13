@@ -1,4 +1,3 @@
-## QUIZ 8
 
 # 1
 select
