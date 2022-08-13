@@ -1,4 +1,3 @@
-## QUIZ 5
 
 # 1
 select
